@@ -1,4 +1,4 @@
-// tribonacci series (7) -> 0 1 2 3 6 11 20 
+// tribonacci series (10) -> 0, 0, 1, 1, 2, 4, 7, 13, 24, 44
 
 
 let a = 0;

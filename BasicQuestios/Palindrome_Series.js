@@ -8,7 +8,7 @@ for(let i = 1; i <= 100; i++) {
 
     while (num > 0) {
         let rem = num % 10;
-        console.log(rem)
+        // console.log(rem)
         sum = (sum * 10) + rem;
         num = Math.floor(num / 10);
     }

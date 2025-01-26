@@ -4,9 +4,9 @@ let b = 20;
 console.log("Before Swapping : " + a + " " + b);
 
 // swap
-// a = a + b;
-// b = a - b;
-// a = a - b;
+a = a + b;
+b = a - b;
+a = a - b;
 
 
 // b = a + b - (a = b);

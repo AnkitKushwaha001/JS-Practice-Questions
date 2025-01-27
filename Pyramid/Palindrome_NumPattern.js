@@ -1,3 +1,5 @@
+// Palindrome pattern with Numbers pattern
+
 //     1
 //    212
 //   32123

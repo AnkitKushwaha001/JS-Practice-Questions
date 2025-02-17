@@ -13,4 +13,5 @@ for(let i = 1; i <= 100; i++) {
         num = Math.floor(num / 10);
     }
     if(originalNum  == sum) console.log(i + " ");
+    // if(originalNum  == sum) console.log(originalNum + " ");
 }
